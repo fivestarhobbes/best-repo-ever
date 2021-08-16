@@ -2,4 +2,4 @@
 
 made some changes to the readme file
 
-added changes to new-branch-2
+changes made for new-branch-1 only
